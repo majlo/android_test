@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_test1">Test1</string>
+    <string name="action_test2">Test2</string>
+    <string name="action_test3">Test3</string>
+    <string name="action_test4">Test4</string>
+    <string name="action_test3_click">Test3 clicked</string>
+    <string name="action_test4_click">Test4 clicked</string>
+    <string name="label_title">Name of the note</string>
+    <string name="label_note">Enter the note</string>
+    <string name="label_save">Save</string>
+	<string name="label_delete">Delete</string>
+	<string name="toast_delete">The note was deleted</string>
+	<string name="label_button_menu">Menu</string>
+	<string name="label_relative">This is relative layout</string>
+	<string name="dlg_delete_title">Delete</string>
+	<string name="dlg_delete_message">Really want to erase all values?</string>
+    <string name="dlg_btn_yes">Yes</string>
+    <string name="dlg_btn_no">No</string>
+    <string name="lorem_ipsum">
+	Lorem Ipsum je demonstrativní výplňový text používaný v tiskařském a knihařském průmyslu. Lorem Ipsum je považováno za standard v této oblasti už od začátku 16. století, kdy dnes neznámý tiskař vzal kusy textu a na jejich základě vytvořil speciální vzorovou knihu. Jeho odkaz nevydržel pouze pět století, on přežil i nástup elektronické sazby v podstatě beze změny. Nejvíce popularizováno bylo Lorem Ipsum v šedesátých letech 20. století, kdy byly vydávány speciální vzorníky s jeho pasážemi a později pak díky počítačovým DTP programům jako Aldus PageMaker.
+	Navzdory všeobecnému přesvědčení Lorem Ipsum není náhodný text. Jeho původ má kořeny v klasické latinské literatuře z roku 45 před Kristem, což znamená, že je více jak 2000 let staré. Richard McClintock, profesor latiny na univerzitě Hampden-Sydney stát Virginia, který se zabýval téměř neznámými latinskými slovy, odhalil prapůvod slova consectetur z pasáže Lorem Ipsum. Nejstarším dílem, v němž se pasáže Lorem Ipsum používají, je Cicerova kniha z roku 45 před Kristem s názvem "De Finibus Bonurum et Malorum" (O koncích dobra a zla), konkrétně jde pak o kapitoly 1.10.32 a 1.10.33. Tato kniha byla nejvíce známá v době renesance, jelikož pojednávala o etice. Úvodní řádky Lorem Ipsum, "Lorem ipsum dolor sit amet...", pocházejí z kapitoly 1.10.32 z uvedené knihy.
+	Klasické pasáže Lorem Ipsum z 16. století jsou reprodukovány níže. Kapitoly 1.10.32 a 1.10.33 z "De Finibus Bonorum et Malorum" od Cicera najdete v původní podobě doplněné o anglický překlad z roku 1914 od H. Rackhama.
+	</string>
+</resources>

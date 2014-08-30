@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cz.majlos.test1.MainActivity" >
+<!--
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+-->
+    <item
+        android:id="@+id/action_test1"
+        android:orderInCategory="100"
+        android:title="@string/action_test1"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_test2"
+        android:orderInCategory="101"
+        android:title="@string/action_test2"
+        app:showAsAction="never">
+        
+        <menu>
+            <group android:id="@+id/group">
+                <item 
+			        android:id="@+id/action_test3"
+			        android:orderInCategory="102"
+			        android:title="@string/action_test3"
+			        app:showAsAction="never"/>
+                <item 
+			        android:id="@+id/action_test4"
+			        android:orderInCategory="103"
+			        android:title="@string/action_test4"
+			        app:showAsAction="never"/>
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
